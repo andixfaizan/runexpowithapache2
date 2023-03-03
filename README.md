@@ -36,6 +36,9 @@ rm -r index.html
 ```
 cd
 ```
+```
+cd sayangwe
+```
 
 
 ```
