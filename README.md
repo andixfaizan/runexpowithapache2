@@ -41,17 +41,7 @@ cd /var/www/html
 ```
 rm -r index.html
 ```
-```
-cd
-```
-```
-cd sayangwe
-```
 
-
-```
-cp -r dist /var/www/html
-```
 ```
 mv dist/* .
 ```
