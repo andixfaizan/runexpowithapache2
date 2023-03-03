@@ -80,3 +80,21 @@ ServerName www.sendawacoffe.my.id
 systemctl restart apache2.service
 ```
 
+
+ssl instakk
+
+```
+snap install core; sudo snap refresh core
+```
+
+```
+snap install --classic certbot ;  ln -s /snap/bin/certbot /usr/bin/certbot
+```
+
+```
+certbot --apache -d managementexpo.web.id
+```
+```
+/etc/init.d/htt
+```
+
