@@ -24,6 +24,10 @@ cd sayangwe
 npm i
 ```
 ```
+npm install -g npm@9.6.0
+```
+
+```
 npm run build
 ```
 
@@ -43,6 +47,9 @@ cd sayangwe
 
 ```
 cp -r dist /var/www/html
+```
+```
+mv dist/* .
 ```
 
 ```
