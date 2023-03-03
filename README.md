@@ -32,6 +32,10 @@ npm run build
 ```
 
 ```
+cp -r dist /var/www/html
+```
+
+```
 cd /var/www/html
 ```
 ```
