@@ -98,3 +98,7 @@ certbot --apache -d managementexpo.web.id
 /etc/init.d/htt
 ```
 
+```
+/etc/init.d/apache2 restart
+```
+
